@@ -15,8 +15,9 @@ Need help?
 
 If you are experiencing harassment on or have concerns about content within the [GitHub repo](https://github.com/papers-we-love/papers-we-love), the **#paperswelove** IRC channel on Freenode, the **paperswelove.slack.com** Slack, or [PapersWeLove.org](http://paperswelove.org) please contact:
 
-- **Organizer name** [org@email.com](mailto:org@email.com)
-- **Organizer name** [org@email.com](mailto:org@email.com)
+- **Daniel Sharp** [daniel@paperslr.org](mailto:daniel@paperslr.org)
+- **Rob Nichols** [rob@paperslr.org](mailto:rob@paperslr.org)
+- **Sam Fisher** [sam@paperslr.org](mailto:sam@paperslr.org)
 - **All** [contact@paperswelove.org](mailto:contact@paperswelove.org)
 
 The organizers of your local Papers We Love meet-up/event are available to help you with any issues or concerns at live events.
